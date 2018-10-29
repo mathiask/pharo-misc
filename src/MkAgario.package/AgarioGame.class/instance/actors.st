@@ -1,0 +1,3 @@
+private 
+actors
+	^ pellets, players

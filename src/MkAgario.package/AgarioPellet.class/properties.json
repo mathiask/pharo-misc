@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MkAgario",
+	"classinstvars" : [
+		"position"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"position"
+	],
+	"name" : "AgarioPellet",
+	"type" : "normal"
+}

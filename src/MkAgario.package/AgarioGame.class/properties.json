@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "MkAgario",
+	"classinstvars" : [
+		"players",
+		"pellets"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pellets",
+		"players"
+	],
+	"name" : "AgarioGame",
+	"type" : "normal"
+}
