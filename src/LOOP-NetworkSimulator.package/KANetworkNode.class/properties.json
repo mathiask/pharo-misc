@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "LOOP-NetworkSimulator-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"address",
+		"outgoingLinks",
+		"loopback",
+		"arrivedPackets"
+	],
+	"name" : "KANetworkNode",
+	"type" : "normal"
+}

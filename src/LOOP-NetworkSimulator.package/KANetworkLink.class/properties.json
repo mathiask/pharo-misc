@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "LOOP-NetworkSimulator-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"source",
+		"destination",
+		"packetsToTransmit"
+	],
+	"name" : "KANetworkLink",
+	"type" : "normal"
+}

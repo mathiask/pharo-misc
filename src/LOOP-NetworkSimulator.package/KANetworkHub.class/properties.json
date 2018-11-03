@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "KANetworkNode",
+	"category" : "LOOP-NetworkSimulator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KANetworkHub",
+	"type" : "normal"
+}
