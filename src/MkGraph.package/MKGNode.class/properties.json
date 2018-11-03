@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "MathiasKegelmann 11/3/2018 21:27",
+	"super" : "Object",
+	"category" : "MkGraph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"visited",
+		"maxLength",
+		"content",
+		"maxPath"
+	],
+	"name" : "MKGNode",
+	"type" : "normal"
+}

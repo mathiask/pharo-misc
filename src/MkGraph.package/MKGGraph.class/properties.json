@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MathiasKegelmann 11/3/2018 20:13",
+	"super" : "Object",
+	"category" : "MkGraph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"vertices",
+		"edges"
+	],
+	"name" : "MKGGraph",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "MathiasKegelmann 11/3/2018 21:00",
+	"super" : "Object",
+	"category" : "MkGraph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"vertices",
+		"edges"
+	],
+	"name" : "MKGGraphBuilderForLongestPath",
+	"type" : "normal"
+}
